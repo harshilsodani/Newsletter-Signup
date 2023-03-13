@@ -1,4 +1,4 @@
-equire("dotenv").config();
+require("dotenv").config();
 const express = require("express");
 const mailchimp = require("@mailchimp/mailchimp_marketing");
 
